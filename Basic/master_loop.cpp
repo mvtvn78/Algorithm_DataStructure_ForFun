@@ -165,5 +165,37 @@ int main()
 //		cout<<endl;
 //	}
   	//cout<<"O("<<count<<")"<<endl;
+  	
+  	int count =0;
+  	int l = 0;
+  	int r = 10;
+  	cout<<"WHILE WITH TAIL CONDITION"<<endl;
+  	
+//  	while(true)
+//  	{
+//  		if(l<r)
+//		{
+//			cout<<"Left"<<l<<endl;  	
+//		}else break;
+//		
+//	}
+//	
+	
+//	do {
+//		count++;
+//		cout<<"Left"<<l<<endl;
+//		l++;
+//	}
+//	while(l<r);
+	
+	cout<<"WHILE WITH HEAD CONDITION"<<endl;
+	while(l<r)
+	{
+		count++;
+		cout<<"Left"<<l<<endl;
+		l++;
+	}
+	cout<<l<<"Bien L trong vong lap while"<<endl;
+	cout<<count<<"Chay trong whike"<<endl;
 	return 0;	
 }
