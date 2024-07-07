@@ -6,5 +6,7 @@
 	- Add Two Number
 	- Two Sum
 	- Postfix Math
+		- Natural Number And Number <10
+		- Natural Number
 	- Add large number
 - Binary Tree
