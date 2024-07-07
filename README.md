@@ -1,4 +1,4 @@
-# Algorithm And Data Structure
+# ALGORITHM & DATA STRUCTURE
 - Array
 - Linked List
 - Problems
