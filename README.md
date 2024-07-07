@@ -1,4 +1,5 @@
 # ALGORITHM & DATA STRUCTURE
+![Fun Picture](https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif)
 - Array
 - Linked List
 - Problems
