@@ -65,7 +65,7 @@ string getPostFix(string infix)
 				}
 				else if ( e_cur=='(')
 					stack.push(e_cur);
-				else if( precedence(e_cur) >= precedence(e_top))
+				else if( precedence(e_cur) > precedence(e_top))
 				{
 					stack.push(e_cur);
 				}

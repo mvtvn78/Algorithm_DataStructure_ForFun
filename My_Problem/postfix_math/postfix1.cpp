@@ -131,7 +131,7 @@ string getPostFix(string infix)
 			else
 			{
 				char e_top = stack.top();
-				if( precedence(e_cur) >= precedence(e_top))
+				if( precedence(e_cur) > precedence(e_top))
 				{
 					//cout << e_cur <<" ON TOP " << e_top<<endl;
 					stack.push(e_cur);
