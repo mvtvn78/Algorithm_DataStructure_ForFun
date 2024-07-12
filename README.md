@@ -11,3 +11,6 @@
 	- Add large number
 	- Hanoi Tower
 - Binary Tree
+- Queue
+	- Priority Queue
+	- Basic Queue
